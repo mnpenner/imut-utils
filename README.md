@@ -5,9 +5,11 @@ Immutability helper for React.
 ## Installation
 
 ```sh
-yarn add @mnpenner/imut-utils
+yarn add @mpen/imut-utils
 # or
-npm install @mnpenner/imut-utils
+npm install @mpen/imut-utils
+# or
+bun add @mpen/imut-utils
 ```
 
 ## Links
